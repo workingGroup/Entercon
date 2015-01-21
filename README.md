@@ -1,2 +1,0 @@
-# Entercon
-Entercon Group
